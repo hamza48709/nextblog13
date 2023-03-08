@@ -1,0 +1,14 @@
+.color{
+    background-color: red;
+    padding: 2em 3em;
+    text-align: center;
+}
+.cen{
+    text-align: center;
+    background-color: aqua;
+    display: block;
+    padding: 2em;
+  }
+  .cen:hover{
+    background-color: blueviolet;
+  }
